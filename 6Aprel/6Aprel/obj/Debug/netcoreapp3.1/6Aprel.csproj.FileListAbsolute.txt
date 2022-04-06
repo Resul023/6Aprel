@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\6Aprel.exe
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\6Aprel.deps.json
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\6Aprel.runtimeconfig.json
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\6Aprel.runtimeconfig.dev.json
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\6Aprel.dll
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\6Aprel.pdb
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.AssemblyInfo.cs
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.dll
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.pdb
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.genruntimeconfig.cache
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\Desktop\6Aprel\6Aprel\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\Desktop\6Aprel\6Aprel\obj\Debug\netcoreapp3.1\6Aprel.csproj.CopyComplete
