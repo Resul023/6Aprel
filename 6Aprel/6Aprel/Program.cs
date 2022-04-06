@@ -47,7 +47,7 @@ namespace _6Aprel
 
                 store.AddProduct(newProduct);
             }
-            Console.WriteLine("Selecet filiter 1-For Type 2-For Name");
+            Console.WriteLine("Selecet filiter 1-For Type 2-For Name 3-Remove object");
             int answer = Convert.ToInt32(Console.ReadLine());
             if (answer == 1)
             {
@@ -75,6 +75,12 @@ namespace _6Aprel
                 {
                     Console.WriteLine(item.Name + " " + item.No + " " + item.Price + " " + item.Type);
                 }
+            }
+            else if (answer == 3)
+            {
+                Console.WriteLine("Write no");
+                int deleteNo = Convert.ToInt32(Console.ReadLine());
+                store.RemoveProductByNo(deleteNo);
             }
             else
             {
